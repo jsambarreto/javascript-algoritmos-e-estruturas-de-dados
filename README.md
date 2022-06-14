@@ -2,7 +2,7 @@
 
 ![js-udemy-capa](https://user-images.githubusercontent.com/25904662/44163790-b496f580-a09a-11e8-9a5a-3c2394ab5af6.jpg)
 
-**#Curso em vídeo mais completo do Brasil sobre Estruturas de Dados em JavaScript!**
+**#Curso em vídeo sobre Estruturas de Dados em JavaScript, criado por Everton Braga, disponivel em:**
 https://www.udemy.com/course/javascript-algoritmos-e-estruturas-de-dados/learn/lecture/11409784?src=sac&kw=estr#overview
 
 Mas, por que JavaScript?
